@@ -16,6 +16,46 @@ This repo provides a structured workflow to:
 4. Design bento-grid visual layouts
 5. Package everything for distribution
 
+---
+
+## Use Cases
+
+### For Internal Teams
+
+- **Standardize workflows** — Every team member uses the same prompts → consistent output
+- **Shared brand rules** — One source of truth for voice, colors, and style
+- **Faster onboarding** — New team members read the brand file, not guess
+
+### For Agencies
+
+- **Client-ready deliverables** — Bootstrap a repo per client with their brand rules
+- **Professional packaging** — Clean ZIP with checksums and install guide
+- **Consistent output** — Same quality bar across all projects
+
+### For Solo Builders
+
+- **Don't rewrite from scratch** — Reusable prompts and layouts
+- **Fast turnaround** — Structured workflow means less decision overhead
+- **Professional results** — Brand system and quality checklists built in
+
+### For Prompt Library Builders
+
+- **Organize by type** — Image, text, workflow prompts in one place
+- **Easy export** — Package subsets or full library for sharing
+- **Extendable** — Add skills as your library grows
+
+### Team Collaboration Features
+
+| Feature | How it helps |
+|---------|--------------|
+| Shared brand file | Everyone references the same rules |
+| Trigger phrases | Natural language works for all team members |
+| Quality checklists | Each skill has a "done" list for review |
+| Manifest system | Always know what's in the repo |
+| CLAUDE.md | AI agent follows same rules as humans |
+
+---
+
 ## Repository Structure
 
 ```
